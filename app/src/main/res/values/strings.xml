@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Encryptor</string>
+    <string name="titleEncryptor">Encryptor</string>
+    <string name="buttonEncryption">Encryption</string>
+    <string name="buttonDecryption">Decryption</string>
+    <string name="encoderTextview">Enter your text here</string>
+    <string name="buttonEncrypt">Encrypt</string>
+    <string name="encoderTextview1">Your encrypted text here</string>
+    <string name="buttonCopy">Copy</string>
+    <string name="buttonDecrypt">Decrypt</string>
+    <string name="decoderTextview1">Your decrypted text here</string>
+</resources>
